@@ -1,0 +1,2 @@
+# sentinel
+lua redis sentinel
